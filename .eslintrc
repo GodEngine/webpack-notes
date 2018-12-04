@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "blued-typescript"
+  ],
+  "rules": {
+    "no-inline-comments": 0,
+    "camelcase": 0,
+    "no-unused-vars": 2
+  }
+}
