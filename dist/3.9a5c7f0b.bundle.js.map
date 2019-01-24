@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/print.js"],"names":["console","log","__webpack_exports__"],"mappings":"2FAAAA,eAAQC,IAAI,kBACGC,EAAA,mBACdF,QAAQC,IAAI","file":"3.9a5c7f0b.bundle.js","sourcesContent":["console.log('printjs loding')\nexport default () => {\n\tconsole.log('prints get ab')\n}"],"sourceRoot":""}
